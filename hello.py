@@ -6,3 +6,6 @@ def add(x):
 
 def subtract(x):
     return x - 1
+    
+def multiplyt(x):
+    return x * x
