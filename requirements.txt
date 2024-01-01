@@ -1,4 +1,4 @@
-pylink 
+pylint
 black 
 pytest-cov
 pytest 
